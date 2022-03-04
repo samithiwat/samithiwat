@@ -66,6 +66,9 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 ## Frontend Frameworks
 
 <span>
+<a href="https://nextjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white">
+</a>
 <a href="https://reactjs.org" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </a>
@@ -94,6 +97,26 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 </a>
 </span>
 
+## Database
+
+<span>
+    <a href="https://www.mysql.com target="_blank">
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
+    <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+    </a>
+    <a href="https://www.mongodb.com" target="_blank">
+        <img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+    <a href="https://www.influxdata.com" target="_blank">
+        <img src="https://img.shields.io/badge/Influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
+    </a>
+    <a href="https://redis.io" target="_blank">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    </a>
+</span>
+
 ## Devops Tools
 
 <span>
@@ -103,8 +126,14 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 <a href="https://www.docker.com" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </a>
+<a href="https://cloud.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+</a>
 <a href="https://www.cloudflare.com" target="_blank">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+</a>
+<a href="https://aws.amazon.com" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </a>
 <a href="https://github.com/features/actions" target="_blank">
     <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
