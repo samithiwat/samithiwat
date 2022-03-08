@@ -155,7 +155,13 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=samithiwat&hide=stars&count_private=true&show_icons=true&theme=dark&custom_title=My%20Progress">
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samithiwat&theme=dark&layout=compact&hide_border=true&v=2">
+</p>
+                                                                                                                                 
+<p align="center">
+
 <img src="https://raw.githubusercontent.com/samithiwat/profile-decoration/master/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 <img src="https://raw.githubusercontent.com/samithiwat/profile-decoration/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
 <img src="https://github.com/samithiwat/profile-decoration/blob/snake/github-contribution-grid-snake.svg"/>
@@ -170,7 +176,7 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 
 <br/>
 
-<h2 align="center"> Highlight Repository </h2>
+<h2 align="center"> 📌 Highlight Repository  </h2>
 
 <br/>
 
