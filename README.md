@@ -153,14 +153,13 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 
 <h2 align="left"> 💻 Github Stats</h2>
 
-![samithiwat's github stats](https://github-readme-stats.vercel.app/api?username=samithiwat&hide=stars&count_private=true&show_icons=true&theme=monokai&custom_title=My%20Progress)
-[![samithiwat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samithiwat&theme=monokai&layout=compact&hide_border=true&v=2)
-](https://wakatime.com/dashboard)
-
 <p align="center">
-    <img src="https://raw.githubusercontent.com/samithiwat/profile-decoration/master/profile-summary-card-output/monokai/2-most-commit-language.svg"/>
-    <img src="https://raw.githubusercontent.com/samithiwat/profile-decoration/master/profile-summary-card-output/monokai/1-repos-per-language.svg"/>
-    <img src="https://github.com/samithiwat/profile-decoration/blob/snake/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samithiwat&hide=stars&count_private=true&show_icons=true&theme=dark&custom_title=My%20Progress">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=samithiwat&theme=dark&layout=compact&hide_border=true&v=2">
+<img src="https://raw.githubusercontent.com/samithiwat/profile-decoration/master/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+<img src="https://raw.githubusercontent.com/samithiwat/profile-decoration/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+<img src="https://github.com/samithiwat/profile-decoration/blob/snake/github-contribution-grid-snake.svg"/>
+
 </p>
 
 <h2 align="center"> ⚡ Recent GitHub Activity </h2>
@@ -184,5 +183,11 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 </a>
 <a href="https://github.com/samithiwat/samithiwat-auth-backend">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=samithiwat&repo=samithiwat-auth-backend&theme=dark">
+</a>
+<a href="https://github.com/samithiwat/samithiwat-blog-frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fecamp-cu&repo=fe-2021-backend&theme=dark">
+</a>
+<a href="https://github.com/samithiwat/samithiwat-blog-frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fecamp-cu&repo=fe-2021-frontend&theme=dark">
 </a>
 </p>
