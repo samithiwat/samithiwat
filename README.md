@@ -5,6 +5,10 @@
 ![header](./assets/header.gif)
 
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Software+Engineer;Backend+and+Devops;Visit+my+website+samithiwat.dev;&center=true&width=500&height=80"></a>
+</p>
+
+<p align="center">
   <a href="https://samithiwat.dev" target="_blank">
     <img src="https://img.shields.io/badge/my_website-131919?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAAPFBMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FYSWgTAAAAE3RSTlMAECA%2FQE9QX2Bvf4CfoK%2B%2Fz9%2FvlrXBLwAAAUNJREFUeNrNlGmawyAIhsHsDiMl3v%2BuA0Y65On%2Br28XqH4uUAh8DzhvpOQR4Rkz1yu8PJZJPSH3pViqs7tDCW5IbTu56FfOdvLxO93V7QuoETi%2BV4nKqGOEVY3ebFQzQmJTIkTILqSW24ZtS1bzq8MFAmsfSG1DZVMHj4V1DkKxy%2FQFZgHV2czuOnPe8EKKaEDUMIFZy8IEDtensOuwvsADHy0UUrg7SnG3hLOz3gyMWQeh4%2FHDbmEdkF9jCyGKz2s45ELPaj4Ls88GIT0WlpPw8vho%2FhduHsz6IJjslR1TEdLD7gyfJvztvxCm50UReswEeC3DUJhJeiJCONxvmyEUJvuGTnncCgQRbM2V2m1H6D2G%2FKgN5WhX7O26P27sKrZJ%2FrEsPHgAqJLqDQXhHqucZTLDI9b42JvgGThkUrYJ4Wv4AxeSLeoFswQCAAAAAElFTkSuQmCC&logoColor=white">
   </a>
@@ -25,7 +29,7 @@
   </a>
 </p>
 
-# Hi there 👋
+# Hi there, I'm samithiwat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 Greetings, I'm Samithiwat Boonchai, a 2nd-year Computer Engineering student, at Chulalongkorn University.
 
@@ -143,15 +147,42 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 </a>
 </span>
 
-## Github Stats
+<h2 align="left"> 🔥 Streak Stats </h2>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samithiwat&theme=algolia" alt="samithiwat" /></p>
+
+<h2 align="left"> 💻 Github Stats</h2>
 
 ![samithiwat's github stats](https://github-readme-stats.vercel.app/api?username=samithiwat&hide=stars&count_private=true&show_icons=true&theme=monokai&custom_title=My%20Progress)
 [![samithiwat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samithiwat&theme=monokai&layout=compact&hide_border=true&v=2)
 ](https://wakatime.com/dashboard)
 
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/samithiwat/profile-decoration/master/profile-summary-card-output/monokai/2-most-commit-language.svg"/>
     <img src="https://raw.githubusercontent.com/samithiwat/profile-decoration/master/profile-summary-card-output/monokai/1-repos-per-language.svg"/>
-    <img src="https://raw.githubusercontent.com/samithiwat/profile-decoration/master/profile-summary-card-output/monokai/0-profile-details.svg"/>
     <img src="https://github.com/samithiwat/profile-decoration/blob/snake/github-contribution-grid-snake.svg"/>
+</p>
+
+<h2 align="center"> ⚡ Recent GitHub Activity </h2>
+
+  <br/>
+   <a href="https://github.com/samithiwat"><img alt="Samithiwat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samithiwat&custom_title=Samithiwat's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+<br/>
+
+<h2 align="center"> Highlight Repository </h2>
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/samithiwat/samithiwat-backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samithiwat&repo=samithiwat-backend&theme=dark">
+</a>
+<a href="https://github.com/samithiwat/samithiwat-blog-backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samithiwat&repo=samithiwat-blog-backend&theme=dark">
+</a>
+<a href="https://github.com/samithiwat/samithiwat-auth-backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samithiwat&repo=samithiwat-auth-backend&theme=dark">
+</a>
 </p>
