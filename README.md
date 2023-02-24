@@ -37,9 +37,8 @@ At this time I'm looking for a part-time job, I'm looking forward to meet you.
 
 # Skills
 
-## Frontend
+## Programming Languages
 
-### Programming Languages
 <span>
 <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -47,10 +46,30 @@ At this time I'm looking for a part-time job, I'm looking forward to meet you.
 <a href="https://www.javascript.com" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </a>
+<a href="https://www.java.com/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white">
+</a>
+<a href="https://go.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</a>
 <a href="https://svelte.dev" target="_blank">
     <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
 </a>
+<a href="https://www.cplusplus.com" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+</a>
+<a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://www.php.net" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white">
+</a>
 </span>
+
+## Frontend
 
 ### Frameworks
 
@@ -67,22 +86,6 @@ At this time I'm looking for a part-time job, I'm looking forward to meet you.
 </span>
 
 ## Backend
-
-### Programming Languages
-<span>
-<a href="https://go.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-</a>
-<a href="https://www.java.com/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white">
-</a>
-<a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a href="https://www.php.net" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white">
-</a>
-</span>
 
 ### Frameworks
 
@@ -227,14 +230,6 @@ At this time I'm looking for a part-time job, I'm looking forward to meet you.
 <img src="https://github.com/samithiwat/profile-decoration/blob/snake/github-contribution-grid-snake.svg"/>
 
 </p>
-
-<h2 align="center"> ⚡ Recent GitHub Activity </h2>
-
-  <br/>
-   <a href="https://github.com/samithiwat"><img alt="Samithiwat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samithiwat&custom_title=Samithiwat's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-<br/>
 
 <h2 align="center"> 📌 Highlight Repository  </h2>
 
