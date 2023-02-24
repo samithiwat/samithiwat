@@ -126,7 +126,7 @@ At this time I'm looking for a part-time job, I'm looking forward to meet you.
         <img src="https://img.shields.io/badge/Opensearch-005EB8?style=for-the-badge&logo=Opensearch&logoColor=white">
     </a>
     <a href="https://elastic.co" target="_blank">
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+        <img src="https://img.shields.io/badge/Elasticsearch-FEC514?style=for-the-badge&logo=Elasticsearch&logoColor=white">
     </a>
     <a href="https://www.influxdata.com" target="_blank">
         <img src="https://img.shields.io/badge/Influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
@@ -199,13 +199,13 @@ At this time I'm looking for a part-time job, I'm looking forward to meet you.
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
 </a>
 <a href="https://elastic.co" target="_blank">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+    <img src="https://img.shields.io/badge/Elasticsearch-FEC514?style=for-the-badge&logo=Elasticsearch&logoColor=white">
 </a>
 <a href="https://www.elastic.co/logstash/" target="_blank">
-    <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
+    <img src="https://img.shields.io/badge/Logstash-00BFB3?style=for-the-badge&logo=Logstash&logoColor=white">
 </a>
 <a href="https://www.elastic.co/kibana/" target="_blank">
-    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
+    <img src="https://img.shields.io/badge/Kibana-F04E98?style=for-the-badge&logo=Kibana&logoColor=white">
 </a>
 </span>
 
