@@ -31,12 +31,15 @@
 
 # Hi there, I'm Samithiwat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-Greetings, I'm Samithiwat Boonchai, a 2nd-year Computer Engineering student, at Chulalongkorn University.
+Greetings, I'm Samithiwat Boonchai, a third-year Computer Engineering student at Chulalongkorn University.
+ambitious software engineering, backend and devOps developer, mostly backend stuff. Currently, interesting in microservices and software architecture.
+At this time I'm looking for a part-time job, I'm looking forward to meet you.
 
-I'm a backend and DevOps engineering, mostly backend stuff, ambitious software engineering. I love to collaborate with others. At this time I'm looking for a part-time job please contact me if you are interesting I hope experience and skill are exactly what you are looking for.
+# Skills
 
-## Programming Languages
+## Frontend
 
+### Programming Languages
 <span>
 <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -44,30 +47,12 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 <a href="https://www.javascript.com" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </a>
-<a href="https://www.java.com/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white">
-</a>
-<a href="https://go.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-</a>
 <a href="https://svelte.dev" target="_blank">
     <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
 </a>
-<a href="https://www.cplusplus.com" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-</a>
-<a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a href="https://www.php.net" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white">
-</a>
 </span>
 
-## Frontend Frameworks
+### Frameworks
 
 <span>
 <a href="https://nextjs.org" target="_blank">
@@ -81,7 +66,25 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 </a>
 </span>
 
-## Backend Frameworks
+## Backend
+
+### Programming Languages
+<span>
+<a href="https://go.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</a>
+<a href="https://www.java.com/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white">
+</a>
+<a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://www.php.net" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white">
+</a>
+</span>
+
+### Frameworks
 
 <span>
 <a href="https://nestjs.com" target="_blank">
@@ -101,27 +104,60 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 </a>
 </span>
 
-## Database
+### Database
 
 <span>
-    <a href="https://www.mysql.com target="_blank">
+    <a href="https://www.mysql.com" target="_blank">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     </a>
     <a href="https://www.postgresql.org" target="_blank">
         <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
+    <a href="https://redis.io" target="_blank">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    </a>
     <a href="https://www.mongodb.com" target="_blank">
         <img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+    <a href="https://opensearch.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Opensearch-005EB8?style=for-the-badge&logo=Opensearch&logoColor=white">
+    </a>
+    <a href="https://elastic.co" target="_blank">
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
     </a>
     <a href="https://www.influxdata.com" target="_blank">
         <img src="https://img.shields.io/badge/Influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
     </a>
-    <a href="https://redis.io" target="_blank">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-    </a>
 </span>
 
-## Devops Tools
+### Message Broker
+<span>
+<a href="https://kubernetes.io" target="_blank">
+    <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=Rabbitmq&logoColor=white">
+</a>
+</span>
+
+### Backend as a Service
+<span>
+<a href="https://firebase.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+</a>
+</span>
+
+## Devops
+
+### CI/CD
+
+<span>
+<a href="https://argoproj.github.io/cd/" target="_blank">
+    <img src="https://img.shields.io/badge/argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
+</a>
+<a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
+</a>
+</span>
+
+### Deployment
 
 <span>
 <a href="https://kubernetes.io" target="_blank">
@@ -139,11 +175,34 @@ I'm a backend and DevOps engineering, mostly backend stuff, ambitious software e
 <a href="https://aws.amazon.com" target="_blank">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </a>
-<a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
+
+</span>
+
+### Monitoring
+<span>
+<a href="https://opensearch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Opensearch-005EB8?style=for-the-badge&logo=Opensearch&logoColor=white">
 </a>
-<a href="https://firebase.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<a href="https://www.elastic.co/kibana/" target="_blank">
+    <img src="https://img.shields.io/badge/Fluentbit-49BDA5?style=for-the-badge&logo=Fluentbit&logoColor=white">
+</a>
+<a href="https://sentry.io" target="_blank">
+    <img src="https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=Sentry&logoColor=white">
+</a>
+<a href="https://grafana.com" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
+</a>
+<a href="https://prometheus.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+</a>
+<a href="https://elastic.co" target="_blank">
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+</a>
+<a href="https://www.elastic.co/logstash/" target="_blank">
+    <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
+</a>
+<a href="https://www.elastic.co/kibana/" target="_blank">
+    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
 </a>
 </span>
 
