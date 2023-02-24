@@ -132,7 +132,7 @@ At this time I'm looking for a part-time job, I'm looking forward to meet you.
 
 ### Message Broker
 <span>
-<a href="https://kubernetes.io" target="_blank">
+<a href="https://rabbitmq.com/" target="_blank">
     <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=Rabbitmq&logoColor=white">
 </a>
 </span>
@@ -183,7 +183,7 @@ At this time I'm looking for a part-time job, I'm looking forward to meet you.
 <a href="https://opensearch.org/" target="_blank">
     <img src="https://img.shields.io/badge/Opensearch-005EB8?style=for-the-badge&logo=Opensearch&logoColor=white">
 </a>
-<a href="https://www.elastic.co/kibana/" target="_blank">
+<a href="https://fluentbit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Fluentbit-49BDA5?style=for-the-badge&logo=Fluentbit&logoColor=white">
 </a>
 <a href="https://sentry.io" target="_blank">
