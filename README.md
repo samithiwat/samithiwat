@@ -15,6 +15,9 @@
   <a href="https://github.com/samithiwat" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://medium.samithiwat.dev">
+     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/samithiwat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -236,38 +239,38 @@ At this time I'm looking for a part-time job, I'm looking forward to meet you.
 <br/>
 
 <tr>
-<td>
-<a href="https://github.com/samithiwat/samithiwat-microservices">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samithiwat&repo=samithiwat-microservices&theme=dark">
-</a>
-</td>
-<td>
-<a href="https://github.com/samithiwat/samithiwat-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samithiwat&repo=samithiwat-frontend&theme=dark">
-</a>
-</td>
+    <td>
+        <a href="https://github.com/samithiwat/samithiwat-microservices">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=samithiwat&repo=samithiwat-microservices&theme=dark">
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/samithiwat/samithiwat-frontend">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=samithiwat&repo=samithiwat-frontend&theme=dark">
+        </a>
+    </td>
 </tr>
 <tr>
-<td>
-<a href="https://github.com/isd-sgcu/rnkm65-gateway">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=isd-sgcu&repo=rnkm65-gateway&theme=dark">
-</a>
-</td>
-<td>
-<a href="https://github.com/isd-sgcu/rnkm65-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=isd-sgcu&repo=rnkm65-backend&theme=dark">
-</a>
-</td>
+    <td>
+        <a href="https://github.com/isd-sgcu/rnkm65-gateway">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=isd-sgcu&repo=rnkm65-gateway&theme=dark">
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/isd-sgcu/rnkm65-backend">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=isd-sgcu&repo=rnkm65-backend&theme=dark">
+        </a>
+    </td>
 </tr>
 <tr>
-<td>
-<a href="https://github.com/isd-sgcu/rnkm65-auth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=isd-sgcu&repo=rnkm65-auth&theme=dark">
-</a>
-</td>
-<td>
-<a href="https://github.com/isd-sgcu/rnkm65-file">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=isd-sgcu&repo=rnkm65-file&theme=dark">
-</a>
-</td>
+    <td>
+        <a href="https://github.com/isd-sgcu/rnkm65-auth">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=isd-sgcu&repo=rnkm65-auth&theme=dark">
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/isd-sgcu/rnkm65-file">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=isd-sgcu&repo=rnkm65-file&theme=dark">
+        </a>
+    </td>
 </tr>
